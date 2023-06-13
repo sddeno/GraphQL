@@ -7,6 +7,8 @@
 
 import Foundation
 
+// making network calls
+
 import SDAPI
 import Apollo
 
